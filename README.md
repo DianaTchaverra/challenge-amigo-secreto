@@ -1,20 +1,20 @@
-Proyecto: Amigo Secreto
+#Proyecto: Amigo Secreto
 
-Descripción
+##Descripción
 
 Este proyecto es una aplicación web sencilla que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo para seleccionar un "Amigo Secreto" al azar.
 
-Características
+##Características
 
-Permite agregar amigos a una lista.
+- Permite agregar amigos a una lista.
 
-Muestra la lista actualizada en la interfaz.
+- Muestra la lista actualizada en la interfaz.
 
-Realiza un sorteo aleatorio para seleccionar un amigo secreto.
+- Realiza un sorteo aleatorio para seleccionar un amigo secreto.
 
-Muestra el resultado del sorteo en pantalla.
+- Muestra el resultado del sorteo en pantalla.
 
-Tecnologías Utilizadas
+##Tecnologías Utilizadas
 
 HTML
 
